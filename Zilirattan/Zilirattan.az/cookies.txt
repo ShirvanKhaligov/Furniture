@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.apies.org	TRUE	/	FALSE	1999999999	__cfduid	d4e20f9bc6c7b4ef7beb299f080f5dee51584345866
+js.apies.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+.tidio.co	TRUE	/	FALSE	1999999999	__cfduid	d99d6c13ded3bb07ce3887d522e605c711584345891
+code.tidio.co	TRUE	/	FALSE	1999999999	SameSite	Lax
+.tidiochat.com	TRUE	/	FALSE	1999999999	__cfduid	d70433a6fbcae582b08b40cdfdcee2e741584345893
+widget-v4.tidiochat.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+zilirattan.az	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+zilirattan.az	TRUE	/	FALSE	1999999999	wp_woocommerce_session_c91ea2e1498821448016ac379adc1fd4	297b0c2ad3f8c1036b518dda7b48a463%7C%7C1584518730%7C%7C1584515130%7C%7Ce43ef564b0ac01a4ce7d83417af74c05
+zilirattan.az	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	f410a798574627150418618c92eb4438
+
